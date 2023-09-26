@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/kphutiyagae/trpc-demo/issues"
   },
-  "homepage": "https://github.com/kphutiyagae/trpc-demo#readme"
+  "homepage": "https://github.com/kphutiyagae/trpc-demo#readme",
+  "dependencies": {
+    "@trpc/client": "^10.38.4",
+    "@trpc/server": "^10.38.4"
+  }
 }
